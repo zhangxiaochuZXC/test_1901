@@ -1,6 +1,6 @@
 num1 = 10
-
-num2 = 20
+# bugfix
+num2 = 20000
 
 num3 = 30 # v1.0 finished
 
